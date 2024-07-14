@@ -1,1 +1,1 @@
-
+The GPA (Grade Point Average) and CGPA (Cumulative Grade Point Average) calculator is a tool designed to help students and educational institutions accurately calculate and manage academic performance metrics. This project involves developing a web-based or desktop application that allows users to input their grades for individual courses, and then automatically calculates their GPA for each term and CGPA for the overall academic period.
